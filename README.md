@@ -1,4 +1,4 @@
-<b>Privacy Policy</b>
+<b>Privacy Policy for DealSwipe app</b>
 
 DealSwipe helps users discover grocery offers and discounts.
 
